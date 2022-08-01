@@ -3,7 +3,7 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 3
 
 # Personal info
 name: Alizée Bardon
@@ -59,7 +59,7 @@ content:
   - title: Bioinformatic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Genomes-Catalog
         link: https://genomes-catalog.ifremer.fr/
         link_text: genomes-catalog
