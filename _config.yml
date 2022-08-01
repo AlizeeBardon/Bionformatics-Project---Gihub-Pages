@@ -48,10 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-I hold a Master of Bioinformatics from the University of Rouen (France). During my apprenticeship at Ifremer (France), I have worked on many aspects of
-bioinformatic web development and omics data management. Eager to take on new challenges, I am currently looking for a new experience in the fields of web
-development in bioinformatics
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. 
+  I have worked at a number of companies gaining teamwork and leadership skills.
+  I hold a Master of Bioinformatics from the University of Rouen (France). During my apprenticeship at Ifremer (France), I have worked on many aspects of
+  bioinformatic web development and omics data management. Eager to take on new challenges, I am currently looking for a new experience in the fields of web
+  development in bioinformatics
 
   Skills: <mark>Bioinformatic</mark> - <mark>Programming</mark> - <mark>Marine Biology</mark>
 
