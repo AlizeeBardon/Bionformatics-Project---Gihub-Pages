@@ -48,14 +48,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content:  # this will include new lines to allow paragraphs:w
-  I am a master student in Bioinformatics from the University of Rouen (France), and I am an apprentice at Ifremer (France). \\
+  I am a master student in Bioinformatics from the University of Rouen (France), and I am an apprentice at Ifremer (France). \
   
-  I have worked on many aspects of bioinformatic web development and omics data management. \\
+  I have worked on many aspects of bioinformatic web development and omics data management. \
   
   Eager to take on new challenges, I am currently looking for a new experience in the fields of web
-  development in bioinformatics. \\
+  development in bioinformatics. \
 
-  Skills \\
+  Skills \
 
   <mark>Bioinformatic</mark> - <mark>Programming</mark> - <mark>Marine Biology</mark>
 
@@ -76,15 +76,42 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Find here genomes and omics data for marine organisms studied at Ifremer! 🐟
-
-        description: | # this will include new lines to allow paragraphs
-          Ifremer's Genome Catalog platform provides access to the omics resources 🧬 of model marine organisms studied at Ifremer. \\
           
+        description: # this will include new lines to allow paragraphs
+          Ifremer's Genome Catalog platform provides access to the omics resources 🧬 of model marine organisms studied at Ifremer. \
           Genomes Catalog is an interactive web application that organizes entries through their metadata (taxonomy, assembly quality) and 
-          give access to a Genome Browser [JBrowse2](https://jbrowse.org/jb2/) to visualise the omics data of each species. \\
-                   
-          The new data addition is automated thanks to the [omics-catalog workflow](https://github.com/ifremer-bioinformatics/omics-catalog). \\
+          give access to a Genome Browser [JBrowse2](https://jbrowse.org/jb2/) to visualise the omics data of each species. \
+          The new data addition is automated thanks to the [omics-catalog workflow](https://github.com/ifremer-bioinformatics/omics-catalog). \
+          My work was the enhence the original pipeline with new features (adding multiple tracks, data management, verification steps). In addition to the public catalog, I have set up a private instance for viewing unpublished data on which teams are collaborating.
           
+
+      - layout: top
+        title: Differential expression Analysis in ShinY for RNA seq
+        link: https://github.com/AlizeeBardon/shiny_enrichment_analysis
+        link_text: DAISY
+        #additional_links:
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+        
+          - Web application: RShiny
+          - Project management: GitHub
+          
+          Context 
+          Course of Bioinformatics in Omics Sciences NGS sequencing data analysis and annotation S3-UE5 
+          Master of BioInformatics Modeling and Statistics, University of Rouen
+          2020
+          
+
+        description: # this will include new lines to allow paragraphs
+          Ifremer's Genome Catalog platform provides access to the omics resources 🧬 of model marine organisms studied at Ifremer. \
+          Genomes Catalog is an interactive web application that organizes entries through their metadata (taxonomy, assembly quality) and 
+          give access to a Genome Browser [JBrowse2](https://jbrowse.org/jb2/) to visualise the omics data of each species. \
+          The new data addition is automated thanks to the [omics-catalog workflow](https://github.com/ifremer-bioinformatics/omics-catalog). \
           My work was the enhence the original pipeline with new features (adding multiple tracks, data management, verification steps). In addition to the public catalog, I have set up a private instance for viewing unpublished data on which teams are collaborating.
           
           
