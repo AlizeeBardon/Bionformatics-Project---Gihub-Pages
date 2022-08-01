@@ -56,13 +56,14 @@ about_content:  # this will include new lines to allow paragraphs:w
   development in bioinformatics. \\
 
   Skills \\
+
   <mark>Bioinformatic</mark> - <mark>Programming</mark> - <mark>Marine Biology</mark>
 
 content:
   - title: Bioinformatic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
         title: Ifremer Genomes Catalog
         link: https://genomes-catalog.ifremer.fr/
         link_text: genomes-catalog
