@@ -49,7 +49,8 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs:w
   I hold a Master of Bioinformatics from the University of Rouen (France). During my apprenticeship at Ifremer (France), I have worked on many aspects of
-  bioinformatic web development and omics data management. \n
+  bioinformatic web development and omics data management.
+  
   Eager to take on new challenges, I am currently looking for a new experience in the fields of web
   development in bioinformatics
 
