@@ -47,14 +47,16 @@ additional_links:
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs:w
+about_content:  # this will include new lines to allow paragraphs:w
   I hold a Master of Bioinformatics from the University of Rouen (France). During my apprenticeship at Ifremer (France), I have worked on many aspects of
   bioinformatic web development and omics data management.
   
   Eager to take on new challenges, I am currently looking for a new experience in the fields of web
   development in bioinformatics
 
-  Skills: <mark>Bioinformatic</mark> - <mark>Programming</mark> - <mark>Marine Biology</mark>
+  Skills
+  
+  <mark>Bioinformatic</mark> - <mark>Programming</mark> - <mark>Marine Biology</mark>
 
 content:
   - title: Bioinformatic Projects # Title for the section
