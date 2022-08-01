@@ -52,11 +52,9 @@ about_content:  # this will include new lines to allow paragraphs:w
   bioinformatic web development and omics data management.
   
   Eager to take on new challenges, I am currently looking for a new experience in the fields of web
-  development in bioinformatics
+  development in bioinformatics.
 
-  Skills
-  
-  <mark>Bioinformatic</mark> - <mark>Programming</mark> - <mark>Marine Biology</mark>
+  Skills: <mark>Bioinformatic</mark> - <mark>Programming</mark> - <mark>Marine Biology</mark>
 
 content:
   - title: Bioinformatic Projects # Title for the section
