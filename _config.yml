@@ -85,7 +85,7 @@ content:
           My work was the enhence the original pipeline with new features (adding multiple tracks, data management, verification steps). In addition to the public catalog, I have set up a private instance for viewing unpublished data on which teams are collaborating.
           
 
-      - layout: top
+      - layout: top 
         title: Differential expression Analysis in ShinY for RNA seq
         link: https://github.com/AlizeeBardon/shiny_enrichment_analysis
         link_text: DAISY
