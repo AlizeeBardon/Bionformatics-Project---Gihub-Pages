@@ -85,31 +85,6 @@ content:
           My work was the enhence the original pipeline with new features (adding multiple tracks, data management, verification steps). 
           In addition to the public catalog, I have set up a private instance for viewing unpublished data on which teams are collaborating.
           
-
-      - layout: top 
-        title: Differential expression Analysis in ShinY for RNA seq
-        link: https://github.com/AlizeeBardon/shiny_enrichment_analysis
-        link_text: DAISY
-        #additional_links:
-          #- title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-          #  url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-           This interactive Shiny application aims to facilitate and automate the analysis of functional enrichment analysis
-           
-        description: |
-            Web application  RShiny
-            Project management GitHub
-            RNAseq Funtional enrichment analysis
-          
-          Context
-          Course of Bioinformatics in Omics Sciences NGS sequencing data analysis and annotation S3-UE5 
-          Master of BioInformatics Modeling and Statistics, University of Rouen
-          2020
-          
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
