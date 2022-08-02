@@ -77,12 +77,13 @@ content:
         quote: >
           Find here genomes and omics data for marine organisms studied at Ifremer! 🐟
           
-        description: # this will include new lines to allow paragraphs
+        description: | # this will include new lines to allow paragraphs
           Ifremer's Genome Catalog platform provides access to the omics resources 🧬 of model marine organisms studied at Ifremer. \
           Genomes Catalog is an interactive web application that organizes entries through their metadata (taxonomy, assembly quality) and 
           give access to a Genome Browser [JBrowse2](https://jbrowse.org/jb2/) to visualise the omics data of each species. \
           The new data addition is automated thanks to the [omics-catalog workflow](https://github.com/ifremer-bioinformatics/omics-catalog). \
-          My work was the enhence the original pipeline with new features (adding multiple tracks, data management, verification steps). In addition to the public catalog, I have set up a private instance for viewing unpublished data on which teams are collaborating.
+          My work was the enhence the original pipeline with new features (adding multiple tracks, data management, verification steps). 
+          In addition to the public catalog, I have set up a private instance for viewing unpublished data on which teams are collaborating.
           
 
       - layout: top 
