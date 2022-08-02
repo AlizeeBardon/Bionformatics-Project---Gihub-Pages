@@ -100,10 +100,10 @@ content:
           This interactive Shiny application aims to facilitate and automate the analysis of functional enrichment analysis
           
         description: | # this will include new lines to allow paragraphs
-            Web application  RShiny
-            Project management GitHub
-            RNAseq Funtional enrichment analysis
-            
+            * Web application  RShiny
+            * Project management GitHub
+            * RNAseq Funtional enrichment analysis
+            \\
             Context
             Course of Bioinformatics in Omics Sciences NGS sequencing data analysis and annotation S3-UE5 
             Master of BioInformatics Modeling and Statistics, University of Rouen
