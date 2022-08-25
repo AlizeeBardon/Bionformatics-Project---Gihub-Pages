@@ -30,10 +30,10 @@ linkedin_username: jameswgrant
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -180,9 +180,9 @@ content:
           #- title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
           #  url: github.com/sproogen/modern-resume-theme
-          - title:  Differential expression Analysis in ShinY for RNA seq
-             icon: fab fa-github
-             url: https://github.com/AlizeeBardon/shiny_enrichment_analysis
+          - title:  AlizeeBardon/shiny_enrichment_analysis
+            icon: fab fa-github
+            url: https://github.com/AlizeeBardon/shiny_enrichment_analysis
         quote: >
           This interactive Shiny application aims to facilitate and automate the analysis of functional enrichment analysis
           
