@@ -67,17 +67,17 @@ content:
 
 
   - title: Education # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Master of Bioinformatics
+    
+      - layout: top
+        title: Master of Bioinformatic Modelisation et Statistic 
         caption: 2021-2023
         sub_title: University of Rouen (France)
-        quote: >
-          Niiice !
+        link: http://masterbioinfo.univ-rouen.fr/
+        link_text: BIMS 
         description: | # this will include new lines to allow paragraphs
           Apprentiship at Ifremer (Brest) during 1.5 years.
- 
 
       - layout: left
         title: Master of Systematic, Evolution and Paleontology
