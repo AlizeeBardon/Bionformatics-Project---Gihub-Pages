@@ -180,7 +180,7 @@ content:
           #- title:  sproogen/modern-resume-theme
           #  icon: fab fa-github
           #  url: github.com/sproogen/modern-resume-theme
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title:  Differential expression Analysis in ShinY for RNA seq
              icon: fab fa-github
              url: https://github.com/AlizeeBardon/shiny_enrichment_analysis
         quote: >
