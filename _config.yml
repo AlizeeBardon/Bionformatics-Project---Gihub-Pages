@@ -70,7 +70,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
     
-      - layout: top
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Project name
@@ -88,7 +88,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
     
-      - layout: left
+      - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Master of Bioinformatic Modelisation et Statistic 
@@ -100,7 +100,7 @@ content:
           DApprentiship at Ifremer (Brest) during 1.5 years.
     
     
-      - layout: top
+      - layout: top-middle
         title: Master of Bioinformatic Modelisation et Statistic 
         caption: 2021-2023
         sub_title: University of Rouen (France)
@@ -109,7 +109,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Apprentiship at Ifremer (Brest) during 1.5 years.
 
-      - layout: left
+      - layout: top-middle
         title: Master of Systematic, Evolution and Paleontology
         caption: 2018-2020
         sub_title: Muséum National d’Histoire Naturelle, Paris (France)
