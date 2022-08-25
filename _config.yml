@@ -150,6 +150,7 @@ content:
   - title: Bioinformatic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
       - layout: top
         title: Ifremer Genomes Catalog
         link: https://genomes-catalog.ifremer.fr/
@@ -198,16 +199,16 @@ content:
           
   - title: A Little More About Me | Personal Experiences
     layout: list
-    content: | # this will include new lines to allow paragraphs
+    content: # this will include new lines to allow paragraphs
     
-    - layout: left
+      - layout:  left
         title: Dinosaurs summer camp, Aveyron, France 
         caption: 2020 – 2021
         description: | # this will include new lines to allow paragraphs
             Looking after 3 children from 1 to 3 years old
             ![Trees](/AlizeeBardon/Curriculum_Vitae/images/landscape-trees.jpg "Trees")
-
-    - layout: left
+            
+      - layout:  left
         title: Aupair, Innishannon, Cork, Ireland 
         caption: 2019 – 2022
         description: | # this will include new lines to allow paragraphs
@@ -216,18 +217,18 @@ content:
             • Pedagogical activities around paleontology and systematics
             ![Trees](/AlizeeBardon/Curriculum_Vitae/images/landscape-trees.jpg "Trees")
 
-    - layout: left
+      - layout:  left
         title: Organization of monthly conférences, BDEM - MNHN, Paris, France
         caption: 2018 – 2020
         description: | # this will include new lines to allow paragraphs
             Bureau des Étudiants et des Doctorants du Muséum 
             Muséum National d’Histoire Naturelle, Paris, France
             
-    - layout: left
+      - layout:  left
         title: Student job | Cash register, Decathlon, France
         caption: 2016 – 2018
 
-    - layout: left
+      - layout:  left
         title: Humanitarian trip – Gorée, Senegal
         caption: 2015 – 2018
         description: |
