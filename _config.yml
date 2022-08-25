@@ -53,13 +53,13 @@ about_content:  # this will include new lines to allow paragraphs:w
   web development (Django, RShiny), databases (SQL, NoSQL).
   During my apprenticeship at Ifremer, I have worked on many aspects of bioinformatic web development and omics data management.
   Passionate about nature and ecology, I also hold a Master of Systematic, Evolution and Paleontology,
-  from the Museum National d’Histoire Naturelle, Paris,France. \
+  from the Museum National d’Histoire Naturelle, Paris,France. 
  
  
   Eager to take on new challenges, I am looking for a new experience starting in february 2023 that would combines the fields I love; ecology and bioinformatics \
 
 
-  <b>Skills</b> \
+  <b>Skills</b> 
 
   <mark>Bioinformatic</mark> - <mark>Web Development</mark> - <mark>Marine Biology</mark> <mark>Ecology</mark> <mark>Evolution</mark>
 
@@ -70,11 +70,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Master of Bioinformatics
+        title: University of Rouen (France) 
         caption: 2021-2023
         sub_title: University of Rouen (France)
         quote: >
-          BIMS
+          <h1>Master of Bioinformatics</h1>
         description: | # this will include new lines to allow paragraphs
           Apprentiship at Ifremer (Brest) during 1.5 years.
  
@@ -93,6 +93,24 @@ content:
         title: Bachelor of Biology and Geology
         caption: 2002 – 2003
         sub_title: Cergy-Pontoise University (France)
+
+
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: SeBiMER | Ifremer  
+        link: https://wwz.ifremer.fr/Recherche/Departements-scientifiques/Departement-Infrastructures-de-Recherche-et-Systemes-d-Information/Bioinformatique
+        link_text: SeBiMER
+        sub_title: Apprenticeship, Genome Browser Project, Ifremer
+        caption: September 2021 - January 2023
+        quote: >
+          *Highlighting Ifremer model organisms through genomic data visualisation*
+        description: | # this will include new lines to allow paragraphs
+            Supervisor: LEROI L.
+            - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
+            - Implementing JBrowse2 to Galaxy Ifremer in order facilitate the omics data visualisation. 
+
 
 
 
