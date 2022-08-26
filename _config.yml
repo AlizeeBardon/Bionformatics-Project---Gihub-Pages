@@ -77,7 +77,7 @@ content:
         quote: >
           <b>Highlighting Ifremer model organisms through genomic data visualisation</b>
         description: | # this will include new lines to allow paragraphs
-            💼 SeBiMER: Ifremer Bioinformatics Core Facility <br>
+            <a href="https://ifremer-bioinformatics.github.io/">🔗</a> SeBiMER: Ifremer Bioinformatics Core Facility <br>
             📍 Brest, Paris
             🎓 Supervisor: LEROI L. <br>
             🧬 Missions: 
@@ -90,39 +90,37 @@ content:
 
                
       - layout: left
-        title: CR2P <a href="https://paleo.mnhn.fr/fr">🔗</a> 
+        title: CR2P  
         link: https://paleo.mnhn.fr/fr
         sub_title: Internship, Crustacean Paleontology 
         caption: 2020 - 6 months
         quote: >
           Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).
         description: | # this will include new lines to allow paragraphs
-            💼 CR2P: Centre de Recherche en Paléontologie - Paris </br>
-            📍 Paris, France
+            <a href="https://paleo.mnhn.fr/fr">🔗</a> CR2P: Centre de Recherche en Paléontologie - Paris <br>
+            📍 Paris, France <br>
             🎓 Supervisor: CHARBONNIER S. and JAUVION C.  <br>
             🦕 Missions: 
             - Peracarida fossil shrimps from La Voulte-sur-Rhône (France, Middle Jurassic)
             - Important work of description, bibliography and systematics
-            - Basics of the systematics of the main shrimp taxa, and more particularly the
+            - Basics of the systematics of the main 🦐 shrimp taxa, and more particularly the
             systematics of Peracarida shrimp
             - Use modern 3D imaging tools (via CT-scan acquisition) to explore precisely the
             internal and external anatomy of fossil specimens in a non-destructive way
             
       - layout: left
         title: CR2P & IMPMC  
-        link: https://paleo.mnhn.fr/fr
         sub_title: Internship, Crustacean Paleontology 
         caption: 2019 - 4 months
         quote: >
           Flattened crustacean fossils, what is the morphological impact of compression?
         description: | # this will include new lines to allow paragraphs
-            💼 CR2P: Centre de Recherche en Paléontologie - Paris & IMPMC : Institut de minéralogie, de physique des matériaux et de cosmochimie</br>
-            📍 Paris, France
-            🎓 Supervisor:  CHARBONNIER S., BERNARD S. and JAUVION C. 
+            <a href="https://paleo.mnhn.fr/fr">🔗</a> CR2P: Centre de Recherche en Paléontologie - Paris & IMPMC : Institut de minéralogie, de physique des matériaux et de cosmochimie<br>
+            📍 Paris, France <br>
+            🎓 Supervisor:  CHARBONNIER S., BERNARD S. and JAUVION C. <br>
             🦕 Missions:
-            Setting up an experimental protocol aiming at compressing crustaceans (shrimps) and studying their deformations. 
-            Comparing the compression results with many fossils from the collections of the MNHN paleontology collection.
-
+            - Setting up an experimental protocol aiming at compressing crustaceans (🦐 shrimps) and studying their deformations. 
+            - Comparing the compression results with many fossils from the collections of the paleontology museum collections.
 
 
       - layout: left
@@ -132,9 +130,12 @@ content:
         quote: >
           Archeology
         description: | # this will include new lines to allow paragraphs
-            Supervisor: ROUSSEL B.
-            Checking the presence and reconditioning fossil objects. 
-            Informing the visitors during the National Archaeology Days
+            <a href="https://www.musee-archeologie-nice.org/">🔗</a> Musée archéologique de Cimiez <br>
+            📍 Nice, France <br>
+            🎓 Supervisor:  CHARBONNIER S., BERNARD S. and JAUVION C. <br>
+            🏺 Missions:
+            - Checking the presence and reconditioning fossil objects. 
+            - Informing the visitors during the National Archaeology Days
 
 
   - title: Education # Title for the section
