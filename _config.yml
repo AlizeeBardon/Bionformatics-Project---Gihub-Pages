@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content:  # this will include new lines to allow paragraphs:w
   I am a master student in Bioinformatics from the University of Rouen (France), and I am an apprentice at Ifremer (France).
   This formation gave me the opportunity to work on different aspects of computational biology, like programming (bash, python), statistics (R),
-  web development (Django, RShiny), databases (SQL, NoSQL).
+  web development (Django, RShiny), workflow (Nextflow) and databases (SQL, NoSQL).
   During my apprenticeship at Ifremer, I have worked on many aspects of bioinformatic web development and omics data management.
   Passionate about nature and ecology, I also hold a Master of Systematic, Evolution and Paleontology,
   from the Museum National d’Histoire Naturelle, Paris,France. 
@@ -90,16 +90,17 @@ content:
 
                
       - layout: left
-        title: CR2P  
+        title: CR2P [CR2P](https://paleo.mnhn.fr/fr)  
         link: https://paleo.mnhn.fr/fr
         sub_title: Internship, Crustacean Paleontology 
         caption: 2020 - 6 months
         quote: >
           Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).
         description: | # this will include new lines to allow paragraphs
-            💼 CR2P: Centre de Recherche en Paléontologie - Paris, France </br>
-            📍 Paris
-            🎓 Supervisor: CHARBONNIER S. and JAUVION C.  </br>
+            💼 CR2P: Centre de Recherche en Paléontologie - Paris </br>
+            📍 Paris, France
+            🎓 Supervisor: CHARBONNIER S. and JAUVION C.  <br>
+            🧬 Missions: 
             - Peracarida fossil shrimps from La Voulte-sur-Rhône (France, Middle Jurassic)
             - Important work of description, bibliography and systematics
             - Basics of the systematics of the main shrimp taxa, and more particularly the
