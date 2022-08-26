@@ -230,10 +230,11 @@ content:
         description: | # this will include new lines to allow paragraphs
             📍 Fondamentes, Aveyron, France <br>
             🦕 Children’s initiation to paleontology
-            • Paleontological digs, fossils collection and identification
-            • Pedagogical activities around paleontology and systematics
-            <img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" style="width: 350px;">
-            ![summer_camp_2020.jpg](images/summer_camp_2020.jpg =250x "summer_camp_2020.jpg")
+            - Paleontological digs, fossils collection and identification
+            - Pedagogical activities around paleontology and systematics 
+            <br>
+            <img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" style="width: 100e;">
+
             
       - layout:  left
         title:  Aupair, Innishannon, Cork, Ireland 
@@ -241,8 +242,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             📍 Innishannon, Cork, Ireland  <br>
             🌸 Looking after 3 children from 1 to 3 years old <br>
-            ![aupair irland](images/irland_children.jpg "irland_children.jpg")
-            
+            <img src="images/irland_children.jpg" alt="Irland 2021" style="width: 350px;">
             
       - layout:  left
         title: Organization of monthly conférences, BDEM - MNHN, Paris, France
