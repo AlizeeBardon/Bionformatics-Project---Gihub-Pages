@@ -171,16 +171,7 @@ content:
         title: Omics Catalog
         link: https://genomes-catalog.ifremer.fr/
         link_text: genomes-catalog
-        #additional_links:
-          #- title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-          #  url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          Find here genomes and omics data for marine organisms studied at Ifremer! 🐟
-          
+
         description: | # this will include new lines to allow paragraphs
         
             The Omic Catalog project is composed of a Genomes Catalog (web application) and a workflow to
@@ -193,9 +184,9 @@ content:
 
             - Genome browser: <b><a href="https://jbrowse.org/jb2/">JBrowse2</a></b> 
             - Facet filtering tool: <b>Keshif</b> 
-            - Workflow: <b>Nextflow</b>  [omics-catalog](https://github.com/ifremer-bioinformatics/omics-catalog)
+            - Workflow: <b>Nextflow [omics-catalog](https://github.com/ifremer-bioinformatics/omics-catalog)</b> 
             - Project management: <b>Gitlab</b> 
-            - Web site link: https://genomes-catalog.ifremer.fr/
+            - Web site link: <b>[https://genomes-catalog.ifremer.fr/]</b> 
             
             <br>
             <b>Context</b>
@@ -218,9 +209,9 @@ content:
           This interactive Shiny application aims to facilitate and automate the analysis of functional enrichment analysis
           
         description: | # this will include new lines to allow paragraphs
-          - Web application:  RShiny
-          - Project management: GitHub
-          - RNAseq: functional enrichment analysis (Over Represented Analisys & Gene Set Enrichment Analysis)
+          - Web application:  <b>RShiny </b> 
+          - Project management: <b>GitHub </b> 
+          - RNAseq: <b>functional enrichment analysis</b> (Over Represented Analisys & Gene Set Enrichment Analysis)
 
           <br>
           <b>Context</b>
@@ -233,21 +224,25 @@ content:
     content: # this will include new lines to allow paragraphs
     
       - layout:  left
-        title: Dinosaurs summer camp, Aveyron, France 
-        caption: 2020 – 2021
-        description: | # this will include new lines to allow paragraphs
-            Looking after 3 children from 1 to 3 years old
-            ![Trees](/AlizeeBardon/Curriculum_Vitae/images/landscape-trees.jpg "Trees")
-            
-      - layout:  left
-        title: Aupair, Innishannon, Cork, Ireland 
+        title: Dinosaurs summer camp
+        sub_title: ALTIA
         caption: 2019 – 2022
         description: | # this will include new lines to allow paragraphs
-            Role: Children’s initiation to paleontology
+            📍 Fondamentes, Aveyron, France <br>
+            🦕 Children’s initiation to paleontology
             • Paleontological digs, fossils collection and identification
             • Pedagogical activities around paleontology and systematics
-            ![Trees](/AlizeeBardon/Curriculum_Vitae/images/landscape-trees.jpg "Trees")
-
+            ![summer_camp_2020.jpg](/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg "summer_camp_2020.jpg")
+            
+      - layout:  left
+        title:  Aupair, Innishannon, Cork, Ireland 
+        caption: 2020 – 2021 
+        description: | # this will include new lines to allow paragraphs
+            📍 Innishannon, Cork, Ireland  <br>
+            🌸 Looking after 3 children from 1 to 3 years old <br>
+            ![aupair irland](/AlizeeBardon/Curriculum_Vitae/images/irland_children.jpg "irland_children.jpg")
+            
+            
       - layout:  left
         title: Organization of monthly conférences, BDEM - MNHN, Paris, France
         caption: 2018 – 2020
