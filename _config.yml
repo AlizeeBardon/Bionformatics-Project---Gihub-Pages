@@ -90,7 +90,7 @@ content:
 
                
       - layout: left
-        title: CR2P [CR2P](https://paleo.mnhn.fr/fr)  
+        title: CR2P [CR2P](https://paleo.mnhn.fr/fr "Google's Homepage")  
         link: https://paleo.mnhn.fr/fr
         sub_title: Internship, Crustacean Paleontology 
         caption: 2020 - 6 months
@@ -100,7 +100,7 @@ content:
             💼 CR2P: Centre de Recherche en Paléontologie - Paris </br>
             📍 Paris, France
             🎓 Supervisor: CHARBONNIER S. and JAUVION C.  <br>
-            🧬 Missions: 
+            🦕 Missions: 
             - Peracarida fossil shrimps from La Voulte-sur-Rhône (France, Middle Jurassic)
             - Important work of description, bibliography and systematics
             - Basics of the systematics of the main shrimp taxa, and more particularly the
@@ -109,14 +109,17 @@ content:
             internal and external anatomy of fossil specimens in a non-destructive way
             
       - layout: left
-        title: CR2P | Centre de Recherche en Paléontologie - Paris, France  
+        title: CR2P & IMPMC  
         link: https://paleo.mnhn.fr/fr
         sub_title: Internship, Crustacean Paleontology 
         caption: 2019 - 4 months
         quote: >
           Flattened crustacean fossils, what is the morphological impact of compression?
         description: | # this will include new lines to allow paragraphs
-            Supervisor: CHARBONNIER S., BERNARD S. and JAUVION C. 
+            💼 CR2P: Centre de Recherche en Paléontologie - Paris & IMPMC : Institut de minéralogie, de physique des matériaux et de cosmochimie</br>
+            📍 Paris, France
+            🎓 Supervisor:  CHARBONNIER S., BERNARD S. and JAUVION C. 
+            🦕 Missions:
             Setting up an experimental protocol aiming at compressing crustaceans (shrimps) and studying their deformations. 
             Comparing the compression results with many fossils from the collections of the MNHN paleontology collection.
 
