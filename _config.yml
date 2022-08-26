@@ -232,7 +232,7 @@ content:
             🦕 Children’s initiation to paleontology
             • Paleontological digs, fossils collection and identification
             • Pedagogical activities around paleontology and systematics
-            <img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" height:100px;" />
+            <img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" style="width: 350px;">
             ![summer_camp_2020.jpg](images/summer_camp_2020.jpg =250x "summer_camp_2020.jpg")
             
       - layout:  left
