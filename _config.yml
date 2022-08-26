@@ -177,40 +177,44 @@ content:
             - Paleontological digs, fossils collection and identification
             - Pedagogical activities around paleontology and systematics 
             
-            <br>
-            <img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" style="width: 250px;">
+            #<br>
+            #<img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" style="width: 250px;">
 
             
       - layout:  left
-        title:  Aupair, Innishannon, Cork, Ireland 
+        title:  Aupair
         caption: 2020 – 2021 
         description: | # this will include new lines to allow paragraphs
             📍 Innishannon, Cork, Ireland  <br>
             🌸 Looking after 3 children from 1 to 3 years old <br>
-            <img src="images/irland_children.jpg" alt="Irland 2021" style="width: 250px;">
+            #<img src="images/irland_children.jpg" alt="Irland 2021" style="width: 250px;">
             
       - layout:  left
-        title: Organization of monthly conférences, BDEM - MNHN, Paris, France
+        title: Organization of monthly conférences
         caption: 2018 – 2020
         description: | # this will include new lines to allow paragraphs
-            Bureau des Étudiants et des Doctorants du Muséum 
+            📍 Paris, France <br>
+            BDEM: Bureau des Étudiants et des Doctorants du Muséum 
             Muséum National d’Histoire Naturelle, Paris, France
             
       - layout:  left
-        title: Student job | Cash register, Decathlon, France
+        title:  Decathlon
+        sub_title: Student job <br>Cash register,
         caption: 2016 – 2018
-
-      - layout:  left
-        title: Humanitarian trip – Gorée, Senegal
-        caption: 2015 – 2018
         description: |
-          • Solidarity workcamp
-          • Gorée Diaspora Festival preparation
-          • Raising inhabitants awareness to sustainable development
+        📍 Herblay, France
+        
+      - layout:  left
+        title: Humanitarian trip <br> 
+        caption: 2015 – 1 month
+        description: |
+        📍 Gorée, Senegal
+          - Solidarity workcamp
+          - Gorée Diaspora Festival preparation
+          - Raising inhabitants awareness to sustainable development
           
      
-
-    
+   
 
 
 
