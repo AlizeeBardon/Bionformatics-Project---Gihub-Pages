@@ -82,7 +82,7 @@ content:
             🎓 Supervisor: LEROI L. <br>
             🧬 Missions: 
             - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
-               - Genome browser: <mark>JBrowse2 [JBrowse2](https://jbrowse.org/jb2/)</mark> 
+               - Genome browser: <mark><a href="https://jbrowse.org/jb2/">JBrowse2</a></mark> 
                - Facet filtering tool: <mark>Keshif</mark> 
                - Workflow to automated the new data addition : <mark>Nextflow</mark> 
                - Project management : <mark>Gitlab</mark> 
