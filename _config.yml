@@ -71,16 +71,16 @@ content:
     content:
     
       - layout: left
-        title:    [SeBiMER | Ifremer](https://wwz.ifremer.fr/Recherche/Departements-scientifiques/Departement-Infrastructures-de-Recherche-et-Systemes-d-Information/Bioinformatique)
+        title: [SeBiMER | Ifremer](https://wwz.ifremer.fr/Recherche/Departements-scientifiques/Departement-Infrastructures-de-Recherche-et-Systemes-d-Information/Bioinformatique)
         sub_title: Apprenticeship, Genome Browser Project
         caption: September 2021 - January 2023
         quote: >
           ##Highlighting Ifremer model organisms through genomic data visualisation
         description: | # this will include new lines to allow paragraphs
-            💼 SeBiMER : Ifremer Bioinformatics Core Facility <br>
-            💼 Ifremer : National Institute for Ocean Science <br>
+            💼 SeBiMER: Ifremer Bioinformatics Core Facility <br>
+            💼 Ifremer: National Institute for Ocean Science <br>
             📍 Brest
-            Supervisor: LEROI L. </br>
+            🎓 Supervisor: LEROI L. </br>
             - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
             - Implementing JBrowse2 to Galaxy Ifremer in order facilitate the omics data visualisation. 
 
@@ -92,8 +92,9 @@ content:
         quote: >
           Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).
         description: | # this will include new lines to allow paragraphs
-            CR2P: Centre de Recherche en Paléontologie - Paris, France </br>
-            Supervisor: CHARBONNIER S. and JAUVION C.  </br>
+            💼 CR2P: Centre de Recherche en Paléontologie - Paris, France </br>
+            📍 Paris
+            🎓 Supervisor: CHARBONNIER S. and JAUVION C.  </br>
             - Peracarida fossil shrimps from La Voulte-sur-Rhône (France, Middle Jurassic)
             - Important work of description, bibliography and systematics
             - Basics of the systematics of the main shrimp taxa, and more particularly the
