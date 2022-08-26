@@ -232,9 +232,8 @@ content:
             🦕 Children’s initiation to paleontology
             • Paleontological digs, fossils collection and identification
             • Pedagogical activities around paleontology and systematics
-            <img src="/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg" alt="Italian Trulli">
-            <img src="images/summer_camp_2020.jpg" alt="Italian Trulli">
-            ![summer_camp_2020.jpg](/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg "summer_camp_2020.jpg")
+            <img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" height:100px;">
+            ![summer_camp_2020.jpg](images/summer_camp_2020.jpg "summer_camp_2020.jpg")
             
       - layout:  left
         title:  Aupair, Innishannon, Cork, Ireland 
@@ -242,7 +241,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             📍 Innishannon, Cork, Ireland  <br>
             🌸 Looking after 3 children from 1 to 3 years old <br>
-            ![aupair irland](/AlizeeBardon/Curriculum_Vitae/images/irland_children.jpg "irland_children.jpg")
+            ![aupair irland](images/irland_children.jpg "irland_children.jpg")
             
             
       - layout:  left
