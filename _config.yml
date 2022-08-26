@@ -261,6 +261,51 @@ content:
           • Solidarity workcamp
           • Gorée Diaspora Festival preparation
           • Raising inhabitants awareness to sustainable development
+          
+          
+   
+  - title: A Little More About Me | Personal Experiences
+    layout: text
+    content: # this will include new lines to allow paragraphs
+    
+      - layout:  left
+        title: Dinosaurs summer camp
+        sub_title: ALTIA
+        caption: 2019 – 2022
+        description: | # this will include new lines to allow paragraphs
+            📍 Fondamentes, Aveyron, France <br>
+            🦕 Children’s initiation to paleontology
+            • Paleontological digs, fossils collection and identification
+            • Pedagogical activities around paleontology and systematics
+            ![summer_camp_2020.jpg](/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg "summer_camp_2020.jpg")
+            
+      - layout:  left
+        title:  Aupair, Innishannon, Cork, Ireland 
+        caption: 2020 – 2021 
+        description: | # this will include new lines to allow paragraphs
+            📍 Innishannon, Cork, Ireland  <br>
+            🌸 Looking after 3 children from 1 to 3 years old <br>
+            ![aupair irland](/AlizeeBardon/Curriculum_Vitae/images/irland_children.jpg "irland_children.jpg")
+            
+            
+      - layout:  left
+        title: Organization of monthly conférences, BDEM - MNHN, Paris, France
+        caption: 2018 – 2020
+        description: | # this will include new lines to allow paragraphs
+            Bureau des Étudiants et des Doctorants du Muséum 
+            Muséum National d’Histoire Naturelle, Paris, France
+            
+      - layout:  left
+        title: Student job | Cash register, Decathlon, France
+        caption: 2016 – 2018
+
+      - layout:  left
+        title: Humanitarian trip – Gorée, Senegal
+        caption: 2015 – 2018
+        description: |
+          • Solidarity workcamp
+          • Gorée Diaspora Festival preparation
+          • Raising inhabitants awareness to sustainable development
 
 
 
