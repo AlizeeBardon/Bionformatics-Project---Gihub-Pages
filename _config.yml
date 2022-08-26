@@ -232,8 +232,8 @@ content:
             🦕 Children’s initiation to paleontology
             • Paleontological digs, fossils collection and identification
             • Pedagogical activities around paleontology and systematics
-            <img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" height:100px;">
-            ![summer_camp_2020.jpg](images/summer_camp_2020.jpg "summer_camp_2020.jpg")
+            <img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" height:100px;" />
+            ![summer_camp_2020.jpg](images/summer_camp_2020.jpg =250x "summer_camp_2020.jpg")
             
       - layout:  left
         title:  Aupair, Innishannon, Cork, Ireland 
@@ -263,31 +263,7 @@ content:
           • Gorée Diaspora Festival preparation
           • Raising inhabitants awareness to sustainable development
           
-          
-   
-  - title: A Little More About Me | Personal Experiences
-    layout: text
-    content: # this will include new lines to allow paragraphs    
-      <table>
-        <tr>
-          <th>
-            <img src="/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg" alt="Italian Trulli">
-            <img src="images/summer_camp_2020.jpg" alt="Italian Trulli">
-          </th>
-          <th>Data
-          Dinosaurs summer camp, ALTIA 
-
-          </th>
-        </tr>
-        <tr>
-          <td>Janvier</td>
-          <td>10.01.2014</td>
-        </tr>
-        <tr>
-          <td>Février</td>
-          <td>10.01.2014</td>
-        </tr>
-      </table>
+     
 
     
 
