@@ -186,7 +186,7 @@ content:
             - Facet filtering tool: <b>Keshif</b> 
             - Workflow: <b>Nextflow [omics-catalog](https://github.com/ifremer-bioinformatics/omics-catalog)</b> 
             - Project management: <b>Gitlab</b> 
-            - Web site link: <b>[https://genomes-catalog.ifremer.fr/]</b> 
+            - Web site link: <b>(https://genomes-catalog.ifremer.fr/)</b> 
             
             <br>
             <b>Context</b>
@@ -277,7 +277,7 @@ content:
             🦕 Children’s initiation to paleontology
             • Paleontological digs, fossils collection and identification
             • Pedagogical activities around paleontology and systematics
-            ![summer_camp_2020.jpg](/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg "summer_camp_2020.jpg")
+            ![summer_camp_2020.jpg](images/summer_camp_2020.jpg "summer_camp_2020.jpg")
             
       - layout:  left
         title:  Aupair, Innishannon, Cork, Ireland 
@@ -285,7 +285,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             📍 Innishannon, Cork, Ireland  <br>
             🌸 Looking after 3 children from 1 to 3 years old <br>
-            ![aupair irland](/AlizeeBardon/Curriculum_Vitae/images/irland_children.jpg "irland_children.jpg")
+            ![aupair irland](images/irland_children.jpg "irland_children.jpg")
             
             
       - layout:  left
