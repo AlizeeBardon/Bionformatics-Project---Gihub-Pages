@@ -66,6 +66,68 @@ about_content:  # this will include new lines to allow paragraphs:w
 content:
 
 
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+    
+      - layout: left
+        title: SeBiMER | Ifremer  
+        link: https://wwz.ifremer.fr/Recherche/Departements-scientifiques/Departement-Infrastructures-de-Recherche-et-Systemes-d-Information/Bioinformatique
+        link_text: SeBiMER
+        sub_title: Apprenticeship, Genome Browser Project, Ifremer
+        caption: September 2021 - January 2023
+        quote: >
+          <b>Highlighting Ifremer model organisms through genomic data visualisation</b>
+        description: | # this will include new lines to allow paragraphs
+            SeBiMER : Ifremer Bioinformatics Core Facility </br>
+            Ifremer : National Institute for Ocean Science </br>
+            Supervisor: LEROI L. </br>
+            - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
+            - Implementing JBrowse2 to Galaxy Ifremer in order facilitate the omics data visualisation. 
+
+      - layout: left
+        title: CR2P | Centre de Recherche en Paléontologie - Paris, France  
+        link: https://paleo.mnhn.fr/fr
+        sub_title: Internship | Crustacean Paleontology 
+        caption: 2020 - 6 months
+        quote: >
+          Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).
+        description: | # this will include new lines to allow paragraphs
+            CR2P: Centre de Recherche en Paléontologie - Paris, France </br>
+            Supervisor: CHARBONNIER S. and JAUVION C.  </br>
+            - Peracarida fossil shrimps from La Voulte-sur-Rhône (France, Middle Jurassic)
+            - Important work of description, bibliography and systematics
+            - Basics of the systematics of the main shrimp taxa, and more particularly the
+            systematics of Peracarida shrimp
+            - Use modern 3D imaging tools (via CT-scan acquisition) to explore precisely the
+            internal and external anatomy of fossil specimens in a non-destructive way
+            
+      - layout: left
+        title: CR2P | Centre de Recherche en Paléontologie - Paris, France  
+        link: https://paleo.mnhn.fr/fr
+        sub_title: Internship | Crustacean Paleontology 
+        caption: 2019 - 4 months
+        quote: >
+          Flattened crustacean fossils, what is the morphological impact of compression?
+        description: | # this will include new lines to allow paragraphs
+            Supervisor: CHARBONNIER S., BERNARD S. and JAUVION C. 
+            Setting up an experimental protocol aiming at compressing crustaceans (shrimps) and studying their deformations. 
+            Comparing the compression results with many fossils from the collections of the MNHN paleontology collection.
+
+
+
+      - layout: left
+        title: Archeology Museum of Nice,  France  
+        sub_title: Internship | Archeology - Cimiez and Terra Amata (Nice)
+        caption: 2018 - 1 month
+        quote: >
+          Archeology
+        description: | # this will include new lines to allow paragraphs
+            Supervisor: ROUSSEL B.
+            Checking the presence and reconditioning fossil objects. 
+            Informing the visitors during the National Archaeology Days
+
+
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:    
@@ -91,60 +153,6 @@ content:
         title: Bachelor of Biology and Geology
         caption: 2002 – 2003
         sub_title: Cergy-Pontoise University (France)
-
-
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-    
-      - layout: left
-        title: SeBiMER | Ifremer  
-        link: https://wwz.ifremer.fr/Recherche/Departements-scientifiques/Departement-Infrastructures-de-Recherche-et-Systemes-d-Information/Bioinformatique
-        link_text: SeBiMER
-        sub_title: Apprenticeship, Genome Browser Project, Ifremer
-        caption: September 2021 - January 2023
-        quote: >
-          <b>Highlighting Ifremer model organisms through genomic data visualisation</b>
-        description: | # this will include new lines to allow paragraphs
-            Supervisor: LEROI L.
-            - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
-            - Implementing JBrowse2 to Galaxy Ifremer in order facilitate the omics data visualisation. 
-
-      - layout: left
-        title: CR2P | Centre de Recherche en Paléontologie - Paris, France  
-        link: https://paleo.mnhn.fr/fr
-        sub_title: Internship | Crustacean Paleontology 
-        caption: 2020 - 6 months
-        quote: >
-          Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).
-        description: | # this will include new lines to allow paragraphs
-            Supervisor: CHARBONNIER S. and JAUVION C. 
-            - Use modern 3D imaging tools (via CT-scan acquisition) to explore precisely the internal and external anatomy of fossil specimens in a non-destructive way. 
-            - Studying the systematics of the main Peracaridan shrimps taxa.
-
-      - layout: left
-        title: CR2P | Centre de Recherche en Paléontologie - Paris, France  
-        link: https://paleo.mnhn.fr/fr
-        sub_title: Internship | Crustacean Paleontology 
-        caption: 2019 - 4 months
-        quote: >
-          Flattened crustacean fossils, what is the morphological impact of compression?
-        description: | # this will include new lines to allow paragraphs
-            Supervisor: CHARBONNIER S., BERNARD S. and JAUVION C. 
-            Setting up an experimental protocol aiming at compressing crustaceans (shrimps) and studying their deformations. 
-            Comparing the compression results with many fossils from the collections of the MNHN paleontology collection.
-
-      - layout: left
-        title: Archeology Museum of Nice,  France  
-        sub_title: Internship | Archeology - Cimiez and Terra Amata (Nice)
-        caption: 2018 - 1 month
-        quote: >
-          Archeology
-        description: | # this will include new lines to allow paragraphs
-            Supervisor: ROUSSEL B.
-            Checking the presence and reconditioning fossil objects. 
-            Informing the visitors during the National Archaeology Days
-
 
 
   - title: Bioinformatic Projects # Title for the section
