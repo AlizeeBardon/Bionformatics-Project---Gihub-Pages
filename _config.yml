@@ -177,8 +177,8 @@ content:
             - Paleontological digs, fossils collection and identification
             - Pedagogical activities around paleontology and systematics 
             
-            #<br>
-            #<img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" style="width: 250px;">
+        #<br>
+        #<img src="images/summer_camp_2020.jpg" alt="Summer camp 2020" style="width: 250px;">
 
             
       - layout:  left
@@ -187,7 +187,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             📍 Innishannon, Cork, Ireland  <br>
             🌸 Looking after 3 children from 1 to 3 years old <br>
-            #<img src="images/irland_children.jpg" alt="Irland 2021" style="width: 250px;">
+        #<img src="images/irland_children.jpg" alt="Irland 2021" style="width: 250px;">
             
       - layout:  left
         title: Organization of monthly conférences
