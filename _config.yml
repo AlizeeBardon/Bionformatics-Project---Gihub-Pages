@@ -90,7 +90,7 @@ content:
 
                
       - layout: left
-        title: CR2P [CR2P](https://paleo.mnhn.fr/fr "Google's Homepage")  
+        title: CR2P <a href="https://paleo.mnhn.fr/fr">🔗</a> 
         link: https://paleo.mnhn.fr/fr
         sub_title: Internship, Crustacean Paleontology 
         caption: 2020 - 6 months
