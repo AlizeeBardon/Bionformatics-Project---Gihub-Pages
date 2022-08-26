@@ -82,11 +82,11 @@ content:
             🎓 Supervisor: LEROI L. <br>
             🧬 Missions: 
             - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
-               - Genome browser: <mark><a href="https://jbrowse.org/jb2/">JBrowse2</a></mark> 
-               - Facet filtering tool: <mark>Keshif</mark> 
-               - Workflow to automated the new data addition : <mark>Nextflow</mark> 
-               - Project management : <mark>Gitlab</mark> 
-            - Implementing JBrowse2 genome browser to <mark>Galaxy</mark> Ifremer in order facilitate the omics data visualisation. 
+               - Genome browser: <b><a href="https://jbrowse.org/jb2/">JBrowse2</a></b> 
+               - Facet filtering tool: <b>Keshif</b> 
+               - Workflow to automated the new data addition: <b>Nextflow</b> 
+               - Project management: <b>Gitlab</b> 
+            - Implementing JBrowse2 genome browser to <b>Galaxy</b> Ifremer in order facilitate the omics data visualisation. 
 
                
       - layout: left
@@ -95,7 +95,7 @@ content:
         sub_title: Crustacean Paleontology <br>Internship 
         caption: 2020 - 6 months
         quote: >
-          Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).
+          <b>Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).</b>
         description: | # this will include new lines to allow paragraphs
             <a href="https://paleo.mnhn.fr/fr">🔗</a> CR2P: Centre de Recherche en Paléontologie - Paris <br>
             📍 Paris, France <br>
@@ -103,7 +103,7 @@ content:
             🦕 Missions: 
             - Peracarida fossil shrimps from La Voulte-sur-Rhône (France, Middle Jurassic)
             - Important work of description, bibliography and systematics
-            - Basics of the systematics of the main 🦐 shrimp taxa, and more particularly the
+            - Basics of the systematics of the main shrimp taxa, and more particularly the
             systematics of Peracarida shrimp
             - Use modern 3D imaging tools (via CT-scan acquisition) to explore precisely the
             internal and external anatomy of fossil specimens in a non-destructive way
@@ -113,13 +113,13 @@ content:
         sub_title: Crustacean Paleontology <br>Internship
         caption: 2019 - 4 months
         quote: >
-          Flattened crustacean fossils, what is the morphological impact of compression?
+          <b>Flattened crustacean fossils, what is the morphological impact of compression?</b>
         description: | # this will include new lines to allow paragraphs
             <a href="https://paleo.mnhn.fr/fr">🔗</a> CR2P: Centre de Recherche en Paléontologie - Paris & IMPMC : Institut de minéralogie, de physique des matériaux et de cosmochimie<br>
             📍 Paris, France <br>
             🎓 Supervisor:  CHARBONNIER S., BERNARD S. and JAUVION C. <br>
             🦕 Missions:
-            - Setting up an experimental protocol aiming at compressing crustaceans (🦐 shrimps) and studying their deformations. 
+            - Setting up an experimental protocol aiming at compressing crustaceans (shrimps) and studying their deformations. 
             - Comparing the compression results with many fossils from the collections of the paleontology museum collections.
 
 
@@ -127,8 +127,6 @@ content:
         title: Archeology Museum of Nice,  France  
         sub_title: Archeology <br>Internship
         caption: 2018 - 1 month
-        quote: >
-          Archeology
         description: | # this will include new lines to allow paragraphs
             <a href="https://www.musee-archeologie-nice.org/">🔗</a> Musée archéologique de Cimiez <br>
             📍 Nice, France <br>
