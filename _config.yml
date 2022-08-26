@@ -75,19 +75,24 @@ content:
         sub_title: Apprenticeship, Genome Browser Project
         caption: September 2021 - January 2023
         quote: >
-          ##Highlighting Ifremer model organisms through genomic data visualisation
+          <b>Highlighting Ifremer model organisms through genomic data visualisation</b>
         description: | # this will include new lines to allow paragraphs
             💼 SeBiMER: Ifremer Bioinformatics Core Facility <br>
-            💼 Ifremer: National Institute for Ocean Science <br>
-            📍 Brest
-            🎓 Supervisor: LEROI L. </br>
+            📍 Brest, Paris
+            🎓 Supervisor: LEROI L. <br>
+            🧬 Missions: 
             - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
-            - Implementing JBrowse2 to Galaxy Ifremer in order facilitate the omics data visualisation. 
+               - Genome browser: <mark>JBrowse2 [JBrowse2](https://jbrowse.org/jb2/)</mark> 
+               - Facet filtering tool: <mark>Keshif</mark> 
+               - Workflow to automated the new data addition : <mark>Nextflow</mark> 
+               - Project management : <mark>Gitlab</mark> 
+            - Implementing JBrowse2 genome browser to <mark>Galaxy</mark> Ifremer in order facilitate the omics data visualisation. 
 
+               
       - layout: left
         title: CR2P  
         link: https://paleo.mnhn.fr/fr
-        sub_title: Internship | Crustacean Paleontology 
+        sub_title: Internship, Crustacean Paleontology 
         caption: 2020 - 6 months
         quote: >
           Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).
@@ -105,7 +110,7 @@ content:
       - layout: left
         title: CR2P | Centre de Recherche en Paléontologie - Paris, France  
         link: https://paleo.mnhn.fr/fr
-        sub_title: Internship | Crustacean Paleontology 
+        sub_title: Internship, Crustacean Paleontology 
         caption: 2019 - 4 months
         quote: >
           Flattened crustacean fossils, what is the morphological impact of compression?
