@@ -72,13 +72,13 @@ content:
     
       - layout: left
         title: SeBiMER | Ifremer
-        sub_title: Apprenticeship, Genome Browser Project
+        sub_title: Genome Browser Project <br>Apprenticeship 
         caption: September 2021 - January 2023
         quote: >
           <b>Highlighting Ifremer model organisms through genomic data visualisation</b>
         description: | # this will include new lines to allow paragraphs
             <a href="https://ifremer-bioinformatics.github.io/">🔗</a> SeBiMER: Ifremer Bioinformatics Core Facility <br>
-            📍 Brest, Paris
+            📍 Brest, Paris <br>
             🎓 Supervisor: LEROI L. <br>
             🧬 Missions: 
             - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
@@ -92,7 +92,7 @@ content:
       - layout: left
         title: CR2P  
         link: https://paleo.mnhn.fr/fr
-        sub_title: Internship, Crustacean Paleontology 
+        sub_title: Crustacean Paleontology <br>Internship 
         caption: 2020 - 6 months
         quote: >
           Systematics and evolution of Peracarid shrimps from the La Voulte-sur-Rhône largerstätte (Middle Jurassic).
@@ -110,7 +110,7 @@ content:
             
       - layout: left
         title: CR2P & IMPMC  
-        sub_title: Internship, Crustacean Paleontology 
+        sub_title: Crustacean Paleontology <br>Internship
         caption: 2019 - 4 months
         quote: >
           Flattened crustacean fossils, what is the morphological impact of compression?
@@ -125,7 +125,7 @@ content:
 
       - layout: left
         title: Archeology Museum of Nice,  France  
-        sub_title: Internship | Archeology - Cimiez and Terra Amata (Nice)
+        sub_title: Archeology <br>Internship
         caption: 2018 - 1 month
         quote: >
           Archeology
