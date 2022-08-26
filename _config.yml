@@ -232,6 +232,8 @@ content:
             🦕 Children’s initiation to paleontology
             • Paleontological digs, fossils collection and identification
             • Pedagogical activities around paleontology and systematics
+            <img src="/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg" alt="Italian Trulli">
+            <img src="images/summer_camp_2020.jpg" alt="Italian Trulli">
             ![summer_camp_2020.jpg](/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg "summer_camp_2020.jpg")
             
       - layout:  left
@@ -269,7 +271,10 @@ content:
     content: # this will include new lines to allow paragraphs    
       <table>
         <tr>
-          <th>![aupair irland](images/irland_children.jpg "irland_children.jpg") </th>
+          <th>
+            <img src="/AlizeeBardon/Curriculum_Vitae/images/summer_camp_2020.jpg" alt="Italian Trulli">
+            <img src="images/summer_camp_2020.jpg" alt="Italian Trulli">
+          </th>
           <th>Data
           Dinosaurs summer camp, ALTIA 
 
