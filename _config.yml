@@ -168,7 +168,7 @@ content:
     content:
     
       - layout: top
-        title: Ifremer Genomes Catalog
+        title: Omics Catalog
         link: https://genomes-catalog.ifremer.fr/
         link_text: genomes-catalog
         #additional_links:
@@ -182,13 +182,27 @@ content:
           Find here genomes and omics data for marine organisms studied at Ifremer! 🐟
           
         description: | # this will include new lines to allow paragraphs
-          Ifremer's Genome Catalog platform provides access to the omics resources 🧬 of model marine organisms studied at Ifremer. \
-          Genomes Catalog is an interactive web application that organizes entries through their metadata (taxonomy, assembly quality) and 
-          give access to a Genome Browser [JBrowse2](https://jbrowse.org/jb2/) to visualise the omics data of each species. \
-          The new data addition is automated thanks to the [omics-catalog workflow](https://github.com/ifremer-bioinformatics/omics-catalog). \
-          My work was the enhence the original pipeline with new features (adding multiple tracks, data management, verification steps). 
-          In addition to the public catalog, I have set up a private instance for viewing unpublished data on which teams are collaborating.
-          
+        
+            The Omic Catalog project is composed of a Genomes Catalog (web application) and a workflow to
+            automate the new data addition.
+
+            To present, organize and query genome entries through their metadata, we implemented the
+            Genome Catalog. Based on the [Keshif](https://keshif.me/) tool, this interactive web application exploits a faceted filtering
+            system using the taxonomy and the assembly quality of each genome. Along with the metadata, each
+            entry gives access to a [JBrowse2](https://jbrowse.org/jb2/) session to visualize the omics data available for the corresponding organism.
+
+            - Genome browser: <b><a href="https://jbrowse.org/jb2/">JBrowse2</a></b> 
+            - Facet filtering tool: <b>Keshif</b> 
+            - Workflow: <b>Nextflow</b>  [omics-catalog](https://github.com/ifremer-bioinformatics/omics-catalog)
+            - Project management: <b>Gitlab</b> 
+            - Web site link: https://genomes-catalog.ifremer.fr/
+            
+            <br>
+            <b>Context</b>
+            Apprenticeship on the Genome Browser Project
+            SeBiMER
+            2021-2022
+
       - layout: top
         title: Differential expression Analysis in ShinY for RNA seq
         link: https://github.com/AlizeeBardon/shiny_enrichment_analysis
@@ -204,14 +218,15 @@ content:
           This interactive Shiny application aims to facilitate and automate the analysis of functional enrichment analysis
           
         description: | # this will include new lines to allow paragraphs
-          * Web application  RShiny
-          * Project management GitHub
-          * RNAseq Functional enrichment analysis
-          \\
-          Context
+          - Web application:  RShiny
+          - Project management: GitHub
+          - RNAseq: functional enrichment analysis (Over Represented Analisys & Gene Set Enrichment Analysis)
+
+          <br>
+          <b>Context</b>
           Course of Bioinformatics in Omics Sciences NGS sequencing data analysis and annotation S3-UE5 
           Master of BioInformatics Modeling and Statistics, University of Rouen
-          2020
+          2022
           
   - title: A Little More About Me | Personal Experiences
     layout: list
