@@ -56,12 +56,12 @@ about_content:  # this will include new lines to allow paragraphs:w
   from the Museum National d’Histoire Naturelle, Paris,France. 
  
  
-  Eager to take on new challenges, I am looking for a new experience starting in february 2023 that would combines the fields I love; ecology and bioinformatics \
+  Eager to take on new challenges, I am looking for a new experience starting in february 2023 that would combines the fields I love; ecology and bioinformatics 
 
 
   <b>Skills</b> 
 
-  <mark>Bioinformatic</mark> - <mark>Web Development</mark> - <mark>Marine Biology</mark> <mark>Ecology</mark> <mark>Evolution</mark>
+  <mark>Bioinformatic</mark> <mark>Web Development</mark> <mark>Marine Biology</mark> <mark>Ecology</mark> <mark>Evolution</mark>
 
 content:
 
@@ -83,7 +83,7 @@ content:
             🧬 Missions: 
             - Setting up a genomic visualisation platform to gather the omics data of Ifremer model organisms. 
                - Genome browser: <b><a href="https://jbrowse.org/jb2/">JBrowse2</a></b> 
-               - Facet filtering tool: <b>Keshif</b> 
+               - Facet filtering tool: <b><a href="https://keshif.me/">Keshif</a></b> 
                - Workflow to automated the new data addition: <b>Nextflow</b> 
                - Project management: <b>Gitlab</b> 
             - Implementing JBrowse2 genome browser to <b>Galaxy</b> Ifremer in order facilitate the omics data visualisation. 
@@ -109,13 +109,13 @@ content:
             internal and external anatomy of fossil specimens in a non-destructive way
             
       - layout: left
-        title: CR2P & IMPMC  
+        title: CR2P 
         sub_title: Crustacean Paleontology <br>Internship
         caption: 2019 - 4 months
         quote: >
           <b>Flattened crustacean fossils, what is the morphological impact of compression?</b>
         description: | # this will include new lines to allow paragraphs
-            <a href="https://paleo.mnhn.fr/fr">🔗</a> CR2P: Centre de Recherche en Paléontologie - Paris & IMPMC : Institut de minéralogie, de physique des matériaux et de cosmochimie<br>
+            <a href="https://paleo.mnhn.fr/fr">🔗</a> CR2P: Centre de Recherche en Paléontologie - Paris <br>
             📍 Paris, France <br>
             🎓 Supervisor:  CHARBONNIER S., BERNARD S. and JAUVION C. <br>
             🦕 Missions:
@@ -147,7 +147,7 @@ content:
         link: http://masterbioinfo.univ-rouen.fr/
         link_text: BIMS
         quote: >
-          Apprentiship at Ifremer (Brest) during 1.5 years.
+          Apprenticeship at Ifremer (Brest) during 1.5 years.
     
 
       - layout: top-middle
